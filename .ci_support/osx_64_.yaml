@@ -25,4 +25,4 @@ qhull:
 target_platform:
 - osx-64
 urdfdom:
-- '4.0'
+- '5.1'
