@@ -20,5 +20,7 @@ qhull:
 - '2020.2'
 target_platform:
 - linux-64
+tinyxml2:
+- '11.0'
 urdfdom:
 - '5.1'
